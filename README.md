@@ -1,2 +1,1 @@
-# calculadora
-calculadora html-css-javascript
+# Calculator
